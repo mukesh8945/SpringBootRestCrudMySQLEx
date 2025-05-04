@@ -1,4 +1,4 @@
-package com.nareshit.mukesh;
+package com.app.mukesh;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
